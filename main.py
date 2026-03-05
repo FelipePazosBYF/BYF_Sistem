@@ -42,7 +42,7 @@ LICENSE_URL = "https://script.google.com/macros/s/AKfycbyI4EWZrWTcQx9EHWEvL1oXJ9
 #   "url": "https://....../BYFSistem_1.0.1.zip",
 #   "notes": "- Fix ...\n- Mejora ..."
 # }
-UPDATE_URL = ""  # <-- COMPLETAR
+UPDATE_URL = "https://raw.githubusercontent.com/FelipePazosBYF/BYF_Sistem/main/update.json" 
 
 # Proveedores base
 PROV_BASE_COLS = ["RUT", "Nombre", "Debe", "IVA Fijo", "Libro", "Cont/Cred"]
